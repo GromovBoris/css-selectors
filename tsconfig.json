@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "ES2015",
+    "removeComments": true,
+    "moduleResolution": "Node",
+    "module": "CommonJS",
+    "outDir": "dist",
+    "strict": false,
+    "sourceMap": false,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*.ts"]
+}
